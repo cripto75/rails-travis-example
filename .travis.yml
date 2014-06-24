@@ -9,3 +9,5 @@ before_script:
   - bundle exec rails s -d
 script: 
   - echo "Build Success"
+
+[![Build Status](https://travis-ci.org/cripto75/rails-travis-example.svg)](https://travis-ci.org/cripto75/rails-travis-example)
